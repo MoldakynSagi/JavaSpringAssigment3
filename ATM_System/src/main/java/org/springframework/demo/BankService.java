@@ -1,0 +1,1 @@
+package org.springframework.demo;public interface BankService {   public void makeService(int num);}
